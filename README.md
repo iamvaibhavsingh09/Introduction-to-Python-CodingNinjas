@@ -1,5 +1,5 @@
 # Introduction-to-Python-CodingNinjas
-Phase 1 of Ninja Data Scientist Career Track.
+Phase 1 : Ninja Data Scientist Career Track.
 
 1. Introduction to Python
 2. Conditionals and Loops
